@@ -231,89 +231,99 @@ A comprehensive collection of Java programs covering core concepts from Object-O
 
 
 1.  **Repository Structure:**
+
 .
-├── Abstraction1.java├── Abstraction2.java
-├── MultipleInheritance.java
-├── BubbleSort.java
-├── CopyElements.java
-├── Deletion.java
-├── EvenAndOdd.java
-├── FindDuplicate.java
-├── Insertion.java
-├── LargestElements.java
-├── MissingValue.java
-├── MoveZeroEnd.java
-├── RemoveDuplicate.java
-├── Reverse.java
-├── Searching.java
-├── SecondLargest.java
-├── Smallest.java
-├── SumOfArray.java
-├── SwapElements.java
-├── TwoSumPair.java
-├── Updation.java
+├── README.md
 ├── module-info.java
-├── Has_A_Relationship.java
-├── Uses_A_Relationship.java
-├── Exception.java
-├── Unchecked_Exception.java
-├── Hierarchical_Inheritance.java
-├── Multilevel_Inheritance.java
-├── Single_Inheritance.java
-├── FileCreate.java
-├── FileList.java
-├── FileSpace.java
-├── InputOutputStream.java
-├── ReadOnFile.java
-├── WriteOnFile.java
 ├── Main.java
 ├── Student.java
-├── BinaryToDecimal.java
-├── CalculatorUsingSwitch.java
-├── DateFormatting.java
-├── Factorial.java
-├── Fibonacci.java
-├── LeapYear.java
-├── MathLibrary.java
-├── RandomNumber.java
-├── StringBufferCode.java
-├── StringBuilderCode.java
-├── SwappinNumber.java
-├── TimeFormatting.java
-├── twoDarray.java
-├── UsingToStringANDParseFunction.java
-├── WrapperClassCode.java
-├── CreateThreadUsingRunnableInterface.java
-├── CreateThreadUsingThreadClass.java
-├── DaemonThread.java
-├── GetThreadName.java
-├── OpenThread.java
-├── SleepMethod.java
-├── ThreadPriority.java
-├── MethodOverloading_1.java
-├── MethodOverloading_2.java
-├── MethodOverriding.java
-├── Student.java
-├── Deserializable.java
-├── Serialization.java
-├── Static_Block.java
-├── StaticKeyword_Method.java
-├── StaticKeyword_Variable1.java
-├── StaticKeyword_Variable2.java
-├── CountWord.java
-├── MaximumOccuringChar.java
-├── PalindromeString.java
-├── ReverseString.java
-├── StringBuffer_1.java
-├── Final_Method.java
-├── Final_Variable.java
-├── SuperClass_Constructor.java
-├── SuperClass_Method.java
-├── SuperClass_Variable.java
-├── ThisClass_Argument.java
-├── ThisClass_Constructor.java
-├── ThisClass_Method.java
-├── ThisClass_Variable.java
-└── README.md
+├── arrays_and_sorting/
+│   ├── BubbleSort.java
+│   ├── CopyElements.java
+│   ├── Deletion.java
+│   ├── EvenAndOdd.java
+│   ├── FindDuplicate.java
+│   ├── Insertion.java
+│   ├── LargestElements.java
+│   ├── MissingValue.java
+│   ├── MoveZeroEnd.java
+│   ├── RemoveDuplicate.java
+│   ├── Reverse.java
+│   ├── Searching.java
+│   ├── SecondLargest.java
+│   ├── Smallest.java
+│   ├── SumOfArray.java
+│   ├── SwapElements.java
+│   ├── TwoSumPair.java
+│   ├── Updation.java
+│   └── twoDarray.java
+├── oop_and_inheritance/
+│   ├── Abstraction1.java
+│   ├── Abstraction2.java
+│   ├── MultipleInheritance.java
+│   ├── Single_Inheritance.java
+│   ├── Multilevel_Inheritance.java
+│   ├── Hierarchical_Inheritance.java
+│   ├── Has_A_Relationship.java
+│   ├── Uses_A_Relationship.java
+│   ├── MethodOverloading_1.java
+│   ├── MethodOverloading_2.java
+│   └── MethodOverriding.java
+├── keywords_and_references/
+│   ├── Static_Block.java
+│   ├── StaticKeyword_Method.java
+│   ├── StaticKeyword_Variable1.java
+│   ├── StaticKeyword_Variable2.java
+│   ├── Final_Method.java
+│   ├── Final_Variable.java
+│   ├── SuperClass_Constructor.java
+│   ├── SuperClass_Method.java
+│   ├── SuperClass_Variable.java
+│   ├── ThisClass_Argument.java
+│   ├── ThisClass_Constructor.java
+│   ├── ThisClass_Method.java
+│   └── ThisClass_Variable.java
+├── strings/
+│   ├── CountWord.java
+│   ├── MaximumOccuringChar.java
+│   ├── PalindromeString.java
+│   ├── ReverseString.java
+│   ├── StringBuffer_1.java
+│   ├── StringBufferCode.java
+│   └── StringBuilderCode.java
+├── math_and_utilities/
+│   ├── BinaryToDecimal.java
+│   ├── CalculatorUsingSwitch.java
+│   ├── DateFormatting.java
+│   ├── Factorial.java
+│   ├── Fibonacci.java
+│   ├── LeapYear.java
+│   ├── MathLibrary.java
+│   ├── RandomNumber.java
+│   ├── SwappinNumber.java
+│   ├── TimeFormatting.java
+│   ├── UsingToStringANDParseFunction.java
+│   └── WrapperClassCode.java
+├── multithreading/
+│   ├── CreateThreadUsingRunnableInterface.java
+│   ├── CreateThreadUsingThreadClass.java
+│   ├── DaemonThread.java
+│   ├── GetThreadName.java
+│   ├── OpenThread.java
+│   ├── SleepMethod.java
+│   └── ThreadPriority.java
+├── file_handling/
+│   ├── FileCreate.java
+│   ├── FileList.java
+│   ├── FileSpace.java
+│   ├── InputOutputStream.java
+│   ├── ReadOnFile.java
+│   └── WriteOnFile.java
+├── serialization/
+│   ├── Deserializable.java
+│   └── Serialization.java
+└── exceptions/
+    ├── Exception.java
+    └── Unchecked_Exception.java
 
     
